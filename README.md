@@ -1,16 +1,13 @@
-# tabelahash
+# Tabela Hash
 
-# Project Title
+# Projeto da Tabela Hash
 
-Simple overview of use/purpose.
+Nesse Projeto foi criado um codigo para utilizacao de uma tabela hash
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Esse codigo possui  inserção, busca , remoção, teste de eficiência, fator de carga
 
-## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Colaboradores
+Andre Akim, Lohan Berg
